@@ -1,0 +1,52 @@
+/* css stylings */
+
+h1{
+    color:navy;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.secondHeading{
+    color:red;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.best{
+    color:green;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#unique{
+    color:teal;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1,h2,h3,p{
+    font-family: 'Courier New', Courier, monospace;
+    color: purple;
+}
+
+nav a{
+    color: orange;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+p a{
+    color: blue;
+    text-decoration: underline;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

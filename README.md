@@ -10,7 +10,9 @@ A structured collection of lesson notes for teaching web development from the gr
 | # | Lesson | Status |
 |---|--------|--------|
 | 01 | [How the Internet Works](./lesson-01-how-the-internet-works/notes.md) | Complete |
-| 02 | [HTML Fundamentals](./lesson-02-html-fundamentals/notes.md) | In Progress |
+| 02 | [HTML Fundamentals](./lesson-02-html-fundamentals/notes.md) | Complete |
+| 03 | [HTML Deep Dive — Forms, Tables & Semantic Elements](./lesson-03-html-deep-dive/notes.md) | Complete |
+| 04 | [Introduction to CSS](./lesson-04-css-basics/notes.md) | Complete |
 
 ---
 
@@ -27,6 +29,10 @@ A structured collection of lesson notes for teaching web development from the gr
 │       ├── index.html
 │       ├── style.css
 │       └── script.js
+├── lesson-03-html-deep-dive/
+│   └── notes.md
+├── lesson-04-css-basics/
+│   └── notes.md
 ```
 
 ---
